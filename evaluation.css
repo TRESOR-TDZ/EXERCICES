@@ -1,0 +1,24 @@
+body {
+    background-color:rgb(95, 192, 224);
+}
+
+.highlight {
+    color: blue;
+    font-weight: bold
+}
+
+li {
+    color: white;
+}
+
+.special {
+    border: 2px solid;
+    font: gray;
+}
+
+#changer-jaune {
+    background-color:yellow ;
+    color:cornflowerblue;
+    font-weight: bold;
+}
+
